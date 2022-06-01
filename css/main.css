@@ -28,8 +28,8 @@
 .header__navbar-item-link {
     color: var(--white-color);
     text-decoration: none;
-    font-size: 1.6rem;
-    font-weight: 400;
+    font-size: 1.4rem;
+    font-weight: 300;
     cursor: pointer;
 } 
 
@@ -50,4 +50,14 @@
     height: 14px;
     top: 0;
     right: 0;
+}
+
+.header__navbar-icon-link {
+    text-decoration: none;
+    color: var(--white-color);
+}
+
+.header__navbar-icon {
+    font-size: 1.6rem;
+    padding: 0 4px;
 }
