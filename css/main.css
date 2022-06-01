@@ -28,8 +28,8 @@
 .header__navbar-item-link {
     color: var(--white-color);
     text-decoration: none;
-    font-size: 1.4rem;
-    font-weight: 100;
+    font-size: 1.6rem;
+    font-weight: 400;
     cursor: pointer;
 } 
 
